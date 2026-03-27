@@ -7,7 +7,7 @@ _Figure 1_. The trend of the total training time of ConfSleepNet as a function o
 ## Performance Comparison
 _Table 1_. Performance comparison between ConfSleepNet and state-of-the-art methods for automatic sleep staging. The best results are highlighted in bold.
 
-<img width="60%" alt="performance" src="https://github.com/user-attachments/assets/acb06bd1-a587-46df-8844-2f891b51b080" />
+<img width="70%" alt="performance" src="https://github.com/user-attachments/assets/acb06bd1-a587-46df-8844-2f891b51b080" />
 
 
 ## Reference
