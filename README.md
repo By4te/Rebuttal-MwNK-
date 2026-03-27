@@ -1,13 +1,13 @@
 # Answer to Reviewer MwNK
 ## Time Complexity Analysis
-<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/62493e1c-aee2-4c45-8de9-e2062bb4a1be" />
+<img width="80%" alt="Figure_1" src="https://github.com/user-attachments/assets/62493e1c-aee2-4c45-8de9-e2062bb4a1be" />
 
 _Figure 1_. The trend of the total training time of ConfSleepNet as a function of the total sample size. The blue dots represent the actual training time under the current sample size, while the red dashed line indicates the ideal linear fit. It can be clearly seen that as the number of training samples increases, the total training time grows approximately linearly, demonstrating that ConfSleepNet has good scalability.
 
 ## Performance Comparison
 _Table 1_. Performance comparison between ConfSleepNet and state-of-the-art methods for automatic sleep staging. The best results are highlighted in bold.
 
-![performance](https://github.com/user-attachments/assets/acb06bd1-a587-46df-8844-2f891b51b080)
+<img width="60%" alt="performance" src="https://github.com/user-attachments/assets/acb06bd1-a587-46df-8844-2f891b51b080" />
 
 
 ## Reference
